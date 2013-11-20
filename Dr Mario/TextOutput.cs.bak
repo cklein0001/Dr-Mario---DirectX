@@ -1,0 +1,116 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using SlimDX;
+using SlimDX.Direct3D11;
+using SlimDX.DXGI;
+using SlimDX.D3DCompiler;
+using Buffer = SlimDX.Direct3D11.Buffer;
+using Resource = SlimDX.Direct3D11.Resource;
+using SlimDX.Windows;
+namespace Dr_Mario
+{
+   public class TextOutput
+    {
+       public static SlimDX.Direct3D10_1.Device1 device10_1 = Program.device10_1;
+       // The KeyedMutex is used just prior to writing to textureD3D11 or textureD3D10.
+       // This is how DirectX knows which DirectX (10 or 11) is supposed to be writing
+       // to the shared texture.  The keyedMutex is just defined here, they will be used
+       // a bit later.
+      static  KeyedMutex mutexD3D10;
+      static KeyedMutex mutexD3D11;
+      static SlimDX.Direct2D.RenderTarget dwRenderTarget;
+      static SlimDX.Direct3D11.Texture2D textureD3D11;
+      static SlimDX.DirectWrite.TextFormat textFormat;
+      static Effect effect;
+     static InputLayout layoutText;
+       static   Buffer vertexBufferText;
+       static BlendState BlendState_Transparent;
+       static SlimDX.Direct2D.SolidColorBrush brushSolidWhite;
+        public static void Initialize(){  // A DirectX 10.1 device is required because DirectWrite/Direct2D are unable
+            // to access DirectX11.  BgraSupport is required for DXGI interaction between
+            // DirectX10/Direct2D/DirectWrite.
+            
+        }
+      /*
+       public static void Destroy(){
+ 
+            // clean up all resources
+            // anything we missed will show up in the debug output
+ 
+            vertexBufferColor.Dispose();
+            vertexBufferText.Dispose();
+            layoutColor.Dispose();
+            layoutText.Dispose();
+            effect.Dispose();
+            shaderByteCode.Dispose();
+            renderTarget.Dispose();
+            swapChain.Dispose();
+            device11.Dispose();
+            device10_1.Dispose();
+            mutexD3D10.Dispose();
+            mutexD3D11.Dispose();
+            textureD3D10.Dispose();
+            textureD3D11.Dispose();
+            factory1.Dispose();
+            adapter1.Dispose();
+            sharedResource.Dispose();
+            d2Factory.Dispose();
+            dwFactory.Dispose();
+            textFormat.Dispose();
+            surface.Dispose();
+            dwRenderTarget.Dispose();
+            brushSolidWhite.Dispose();
+            BlendState_Transparent.Dispose();
+ 
+        }
+       */
+       public static void Process()
+                  {
+                     
+                // Draw Text on the shared Texture2D
+                // Need to Acquire the shared texture for use with DirectX10
+                mutexD3D10.Acquire(0, 100);
+                dwRenderTarget.BeginDraw();
+                //dwRenderTarget.Clear(new Color4(0, 0, 0, 0));
+                string text = "Testing text output.";
+                dwRenderTarget.DrawText(text, textFormat, new System.Drawing.Rectangle(0, 0, Program.form.Width, Program.form.Height), brushSolidWhite);
+                dwRenderTarget.EndDraw();
+                mutexD3D10.Release(0);
+ 
+                // Draw the shared texture2D onto the screen
+                // Need to Aquire the shared texture for use with DirectX11
+                mutexD3D11.Acquire(0, 100);
+                ShaderResourceView srv = new ShaderResourceView(Program.device, textureD3D11);
+                effect.GetVariableByName("g_textOverlay").AsResource().SetResource(srv);
+                Program.context.InputAssembler.InputLayout = layoutText;
+                Program.context.InputAssembler.PrimitiveTopology = PrimitiveTopology.TriangleStrip;
+                Program.context.InputAssembler.SetVertexBuffers(0, new VertexBufferBinding(vertexBufferText, VertexPositionTexture.SizeInBytes, 0));
+                Program.context.OutputMerger.BlendState = BlendState_Transparent;
+                EffectTechnique currentTechnique = effect.GetTechniqueByName("Text");
+
+            /*    var dssd = new DepthStencilStateDescription()
+                {
+                    IsDepthEnabled = false,
+                    DepthWriteMask = DepthWriteMask.Zero
+                };
+             */
+             //  var  DSState = DepthStencilState.FromDescription(Program.device, dssd);
+             //  Program.context.OutputMerger.DepthStencilState = DSState;
+               Program.context.Draw(4, 0);
+           /*
+                for (int pass = 0; pass < currentTechnique.Description.PassCount; ++pass)
+                {
+                    EffectPass Pass = currentTechnique.GetPassByIndex(pass);
+                    System.Diagnostics.Debug.Assert(Pass.IsValid, "Invalid EffectPass");
+                    Pass.Apply(Program.context);
+                   Program. context.Draw(4, 0);
+                }
+            */
+                srv.Dispose();
+                mutexD3D11.Release(0);
+             }
+    }
+}

@@ -1,0 +1,51 @@
+c:\users\christopher\documents\visual studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\Dr Mario.exe.config
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\obj\Debug\Dr Mario.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\obj\Debug\Dr_Mario.Form1.resources
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\obj\Debug\Dr_Mario.Properties.Resources.resources
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\obj\Debug\Dr Mario.csproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\Dr Mario.exe
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\Dr Mario.pdb
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\obj\Debug\Dr Mario.exe
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\obj\Debug\Dr Mario.pdb
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\images\capsules64.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\images\virusblue.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\images\virusred.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\images\virusyellow.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\images\capsuleblue32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\images\virusblue32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\images\virusred32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\images\virusyellow32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\images\capsule32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\SlimDX.dll
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\SlimDX.pdb
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario\Dr Mario\bin\Debug\SlimDX.xml
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\Game.db3
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\images\Bottle.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\images\capsule32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\images\capsules64.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\images\Menu.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\images\virusblue.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\images\virusblue32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\images\virusred32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\images\virusyellow32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\images\capsuleblue32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\images\virusred.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\images\virusyellow.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\Textures\Text.fx
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\Textures\triangle.fx
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\Dr Mario.exe.config
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\Dr Mario.exe
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\Dr Mario.pdb
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\SlimDX.dll
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\SpriteTextRenderer.dll
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\System.Data.SQLite.dll
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\SpriteTextRenderer.pdb
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\SpriteTextRenderer.xml
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\SlimDX.pdb
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\SlimDX.xml
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\obj\Debug\Dr Mario.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\obj\Debug\Dr_Mario.Properties.Resources.resources
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\obj\Debug\Dr Mario.csproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\obj\Debug\Dr Mario.exe
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\obj\Debug\Dr Mario.pdb

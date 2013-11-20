@@ -1,0 +1,53 @@
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Game.db3
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\ArrowDown.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\ArrowUp.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\Bottle.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\capsule32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\capsules64.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\Menu.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\virusblue.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\virusblue32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\virusred32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\virusyellow32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\capsuleblue32.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\virusred.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\virusyellow.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Textures\Text.fx
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Textures\triangle.fx
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Dr Mario.exe.config
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Dr Mario.exe
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Dr Mario.pdb
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\SpriteTextRenderer.dll
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\SpriteTextRenderer.pdb
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\SpriteTextRenderer.xml
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\System.Data.SQLite.pdb
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\obj\x64\Debug\Dr Mario.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\obj\x64\Debug\Dr_Mario.Properties.Resources.resources
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\obj\x64\Debug\Dr Mario.csproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\obj\x64\Debug\Dr Mario.exe
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\obj\x64\Debug\Dr Mario.pdb
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\ArrowRight.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\LevelSelect.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\images\ColorBar.png
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\SoundsMusic\chill_full.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\SoundsMusic\chill_intro.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\SoundsMusic\chill_main.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\almost_done.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\annoying_loser_sound.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\begin.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\choose.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\clear.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\combo.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\countdown.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\defeat.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\dropremains.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\flip.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\kicking_virus.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\land_two.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\move.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\pause.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\pill_land.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\select.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\ten_pills.wav
+C:\Users\Christopher\Documents\Visual Studio 11\Projects\Dr Mario - DirectX\Dr Mario\bin\x64\Debug\Sounds\warning.wav
